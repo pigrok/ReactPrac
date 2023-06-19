@@ -1,0 +1,9 @@
+GlobalStyles, Sass 소개, css reset
+
+전역 스타일링: 프로젝트 전체를 아우르는 스타일!
+globally
+styled-components => 해당 컴포넌트 내에서만!
+
+
+React Hooks -useState
+-가장 기본적인 Hooks
